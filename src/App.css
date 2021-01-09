@@ -3,3 +3,7 @@ header, footer {
   color: #fff;
   padding: var(--gap-md);
 }
+
+footer .lab {
+  color: var(--secondary);
+}

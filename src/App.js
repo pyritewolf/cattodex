@@ -13,7 +13,7 @@ function App() {
           Segunda seccion
         </Section>
       </main>
-      <footer>Made with 🤍 by <a  href="https://github.com/Kekeberto" target="_blank">zeke</a> & <a href="https://github.com/fornielesv"  taget="_blank">iso</a></footer>
+      <footer>Made with <i class="lab la-gratipay"></i> by <a  href="https://github.com/Kekeberto" target="_blank">zeke</a> & <a href="https://github.com/fornielesv"  taget="_blank">iso</a></footer>
     </div>
   );
 }
