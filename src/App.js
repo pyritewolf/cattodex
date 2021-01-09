@@ -1,27 +1,19 @@
-import Title from './components/Title'; 
-import logo from './logo.svg';
+import Section from './components/Section';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <Title/>
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          TU VIEJA
-        </p>
-        <Title/>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-        <Title/>
-      </header>
+    <div>
+      <header><h1>Cattodex</h1></header>
+      <main>
+        <Section background="grey">
+          Primer seccion
+        </Section>
+        <Section>
+          Segunda seccion
+        </Section>
+      </main>
+      <footer>Made with 🤍 by <a  href="https://github.com/Kekeberto" target="_blank">zeke</a> & <a href="https://github.com/fornielesv"  taget="_blank">iso</a></footer>
     </div>
   );
 }
