@@ -6,8 +6,11 @@ function App() {
     <div>
       <header><h1>Cattodex</h1></header>
       <main>
-        <Section background="grey">
-          Primer seccion
+        <Section background="light-grey">
+          <div id="containerFirstSection">
+            <i class="catIcon las la-cat" ></i> 
+            <p>A home for all<br/>you feline friends</p>
+          </div>
         </Section>
         <Section>
           Segunda seccion

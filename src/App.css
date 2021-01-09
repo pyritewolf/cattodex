@@ -3,3 +3,15 @@ header, footer {
   color: #fff;
   padding: var(--gap-md);
 }
+
+#container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-md);
+}
+
+.catIcon{
+  font-size: 200px;
+  color: var(--dark-grey);
+}

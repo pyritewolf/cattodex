@@ -5,3 +5,7 @@ section {
 section.grey  {
   background: var(--grey);
 }
+
+section.light-grey{
+  background: var(light-grey);
+}
