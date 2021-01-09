@@ -15,3 +15,7 @@ header, footer {
   font-size: 200px;
   color: var(--dark-grey);
 }
+
+footer .lab {
+  color: var(--secondary);
+}
