@@ -19,3 +19,23 @@ header, footer {
 footer .lab {
   color: var(--secondary);
 }
+.Shareico {
+  font-size: 32px;
+  color: var(--primary);
+}
+
+.Juegoico {
+  font-size: 32px;
+  color: var(--secondary);
+}
+
+.secsec {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.secsec p {
+  margin: 0px;
+  font-size: larger;
+}

@@ -13,7 +13,18 @@ function App() {
           </div>
         </Section>
         <Section>
-          Segunda seccion
+          <div class="secsec">
+            <div>
+              <i class="Shareico las la-share-alt-square"></i>
+              <h2><a href="https://www.google.com" >Share</a></h2>
+              <p>Connect with your<br/>friends & share<br/>your cattos</p>
+            </div>
+            <div>
+              <i class="Juegoico las la-paw"></i>
+              <h2><a href="https://google.com" >Play</a></h2>
+              <p>Brave new challenges<br/>for your pets<br/>every week</p>
+            </div>
+          </div>
         </Section>
       </main>
       <footer>Made with <i class="lab la-gratipay"></i> by <a  href="https://github.com/Kekeberto" target="_blank">zeke</a> & <a href="https://github.com/fornielesv"  taget="_blank">iso</a></footer>
