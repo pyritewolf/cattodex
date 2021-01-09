@@ -4,7 +4,7 @@ header, footer {
   padding: var(--gap-md);
 }
 
-#container{
+#containerFirstSection{
   display: flex;
   align-items: center;
   justify-content: center;
