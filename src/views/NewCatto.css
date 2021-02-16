@@ -1,0 +1,12 @@
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    gap: var(--gap-md)
+}
+
+form div {
+    padding: 5px;
+    border: 2px solid rgb(155, 101, 218);
+    border-radius: var(--radius)
+}
