@@ -24,8 +24,23 @@ function Home() {
           </div>
         </div>
       </Section>
+      <Section>
+        <form>
+          <h1>Boop us!</h1>  
+          <h2>And tell us, how do you met us? <br/>* boop * *boop*</h2> 
+          <div>
+            <input type="checkbox" id="instagram"/> 
+            <label for="instagram">Instagram</label>
+            <br/>
+            <input type="checkbox" id="facebook"/> 
+            <label for="facebook">Facebook</label>
+            <br/>
+            <input type="checkbox" id="twitter"/> 
+            <label for="twitter">twitter</label>
+          </div>
+        </form>
+      </Section>
     </>
   );
 }
-
 export default Home;
